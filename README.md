@@ -1,6 +1,3 @@
-Tutorial with comments explaining each step:
-
-```markdown
 # Laravel and Vite Setup Tutorial
 
 This tutorial will guide you through setting up a Laravel project with Vite as the frontend build tool.
